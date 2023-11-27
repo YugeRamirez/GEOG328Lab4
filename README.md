@@ -1,5 +1,5 @@
 # Lab 4
-This lab mainly focuses on making interactive map with geojson file with given data.
+This lab mainly focuses on making interactive map with geojson file from given data.
 
 ## Details on Data Visualization
 I changed my color scheme from OrRd which is adopted in the example population density to Greens, since I believe more vaccination rate represents more safety against virus.
